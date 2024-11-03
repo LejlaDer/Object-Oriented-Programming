@@ -1,2 +1,2 @@
 # Object-Oriented-Programming
-All lab tasks
+Repository for all lab tasks for the Object Oriented Programming course 2024/25.
